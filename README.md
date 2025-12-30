@@ -9,7 +9,7 @@ The tool consumes and produces [OCI-compatible container images](https://github.
 ![introductory movie showing some basic commands](./docs/assets/landing-movie.gif)
 
 ## Get started
-
+delate..
 ### Requirements
 
 You need a Mac with Apple silicon to run `container`. To build it, see the [BUILDING](./BUILDING.md) document.
