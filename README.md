@@ -40,7 +40,7 @@ container system start
 Use the `uninstall-container.sh` script to remove `container` from your system. To remove your user data along with the tool, run:
 
 ```bash
-uninstall-container.sh -d
+uninstall-container.sh _k
 ```
 
 To retain your user data so that it is available should you reinstall later, run:
